@@ -168,7 +168,7 @@ az login
 ```sh
 az account set --subscription "your-subscription-id"
 ```
-
+ 
 #### Connect to the AKS Cluster:
 ```sh
 az aks get-credentials --resource-group your-resource-group --name your-aks-cluster
